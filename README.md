@@ -1,4 +1,5 @@
 [![AsyncAPI Generator](./assets/readme-banner.png)](https://www.asyncapi.com/tools/generator)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FShurtu-gal%2Fgenerator.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FShurtu-gal%2Fgenerator?ref=badge_shield)
 
 > Some parts of the AsyncAPI Generator are deprecated and the plan is to remove them in October 2025. For more details read notes from release [@asyncapi/generator@2.6.0](https://github.com/asyncapi/generator/releases/tag/%40asyncapi%2Fgenerator%402.6.0).
 
@@ -157,3 +158,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FShurtu-gal%2Fgenerator.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FShurtu-gal%2Fgenerator?ref=badge_large)
